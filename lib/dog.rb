@@ -1,1 +1,2 @@
 #name= rufus
+@name = rufus 
